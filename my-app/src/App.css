@@ -18,11 +18,11 @@ body{
   background-color: #E85D5D;
   
 }
-.globe{
+/* .globe{
   width: 20px;
   height: 20px;
   margin-top: 5px;
-}
+} */
 .page-title{
   font-size: 20px;
   margin-top: 0;
@@ -34,6 +34,9 @@ body{
 .logo--map{
   width: 14px;
   margin-right: 5px;
+}
+.logo--map :hover {
+  transform: scale(2);
 }
 .photos{
   margin-top: 10px;
